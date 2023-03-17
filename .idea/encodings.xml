@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/DataMining/homework/商品零售购物篮分析/demo/data/GoodsOrder.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DataMining/homework/商品零售购物篮分析/demo/data/GoodsTypes.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DataMining/lianjia_analysis_project/ss_01_数据爬虫程序/html_downloader.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataMining/lianjia_analysis_project/ss_01_数据爬虫程序/html_outputer.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataMining/lianjia_analysis_project/ss_01_数据爬虫程序/html_parser.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataMining/lianjia_analysis_project/ss_01_数据爬虫程序/log.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataMining/lianjia_analysis_project/ss_01_数据爬虫程序/logs/2020-11-18 log.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DataMining/lianjia_analysis_project/ss_01_数据爬虫程序/output/ershoufang.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/DataMining/lianjia_analysis_project/ss_01_数据爬虫程序/spider_main.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataMining/lianjia_analysis_project/ss_01_数据爬虫程序/test.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataMining/lianjia_analysis_project/ss_01_数据爬虫程序/url_manager.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DataMining/航空公司客户价值分析/demo/tmp/explore.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pandas/homework/test.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/数据挖掘课程代码/homework/2020泰迪杯B题/ss_01_数据的基本处理_任务1.4.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/数据挖掘课程代码/homework/2020泰迪杯B题/test.py" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
